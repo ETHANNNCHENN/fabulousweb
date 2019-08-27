@@ -27,7 +27,6 @@ h4 {
 
 .PS {
     background-color: azure;
-    padding: 25px;
     float: right;
     width: 50%;
 }
@@ -39,17 +38,11 @@ h5 {
 
 .me-bio {
     border: 4px solid black;
-    margin: 50px;
-    padding-left: 50px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    padding-right: 50px;
+    
 
 }
 
-#whale {
-    padding: 50px;
-}
+
 
 #dog {
     padding: 50px;
