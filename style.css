@@ -29,3 +29,9 @@ h5 {
     color: darkgoldenrod;
     font-size: 250%;
 }
+
+.me-bio {
+    border: 4px solid black;
+    margin: 50px;
+    padding-left: 50px;
+}
