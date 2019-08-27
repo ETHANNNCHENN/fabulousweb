@@ -28,6 +28,8 @@ h4 {
 .PS {
     background-color: azure;
     padding: 25px;
+    float: right;
+    width: 50%;
 }
 
 h5 {
